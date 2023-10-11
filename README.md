@@ -6,7 +6,7 @@
 My main interests are Algorythmic Trading/Cryptocurrencies, Machine Learning, Software Development and Data Science. I also like traveling, which helps me master foreign languages.
 In my opinion staying open-minded with different technologies, cultures and people is crucial while working with others worldwide. 
 
-- Languages: **Python, C#, SQL, C++(basics)**
+- Languages: **Python, C#, SQL**
 - Tools: **Visual Studio, Visual Studio Code, Pycharm, CLion, Git, MS Teams, Excel, Snowflake, Jupyter Notebook**
 - My [Linkedin](https://www.linkedin.com/in/jakub-w%C4%85sik-9aa028254/)
 
