@@ -7,8 +7,8 @@ My main interests are Machine Learning, Software Development, Data Science and A
 -->
 
 
-- Languages: **Python, C#, SQL**
-- Tools: **Visual Studio, Visual Studio Code, Pycharm, CLion, Git, MS Teams, Excel, Snowflake, Jupyter Notebook**
+- Languages: **Python/Jupyter Notebook, C#**
+- Tools: **SQL/snowflake, Visual Studio/Code, Pycharm, Git**
 
 
 <!--
