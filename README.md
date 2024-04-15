@@ -9,7 +9,6 @@ My main interests are Machine Learning, Software Development, Data Science and A
 
 - Languages: **Python, C#, SQL**
 - Tools: **Visual Studio, Visual Studio Code, Pycharm, CLion, Git, MS Teams, Excel, Snowflake, Jupyter Notebook**
-- My [Linkedin](https://www.linkedin.com/in/jakub-w%C4%85sik-9aa028254/)
 
 
 <!--
