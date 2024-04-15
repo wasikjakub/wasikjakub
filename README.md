@@ -5,7 +5,7 @@
 
 My main interests are Machine Learning, Software Development, Data Science and Algorythmic Trading. I also like traveling, which helps me master foreign languages. In my opinion staying open-minded with different technologies, cultures and people is crucial while working with others worldwide.
 -->
-Creating over consuming and actions over words
+
 
 - Languages: **Python, C#, SQL**
 - Tools: **Visual Studio, Visual Studio Code, Pycharm, CLion, Git, MS Teams, Excel, Snowflake, Jupyter Notebook**
