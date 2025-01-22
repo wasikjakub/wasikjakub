@@ -1,8 +1,6 @@
 
 <h1 align="center"> my coding portfolio. </h1>
 
----
-
 **Solo projects:**
 - stock price prediction using LR an RF algorithms **eng. thesis**
 - pre-marathon training stats analysis
