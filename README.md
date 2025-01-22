@@ -7,7 +7,7 @@
 - vending machine arduino
 - hangman
 
----
+--
 
 **Group projects:**
 - AI image recognition app
@@ -18,7 +18,7 @@
 - car repair simulation
 - multicriteria optimization
 
----
+--
 
 **Uni modules:**
 - machine learning
