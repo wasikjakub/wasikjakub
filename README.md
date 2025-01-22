@@ -1,6 +1,16 @@
 
 <h1 align="center"> my coding portfolio. </h1>
-  
+
+---
+
+**Solo projects:**
+- stock price prediction using LR an RF algorithms **eng. thesis**
+- pre-marathon training stats analysis
+- vending machine arduino
+- hangman
+
+---
+
 **Group projects:**
 - AI image recognition app
 - airly API visualizer
@@ -10,11 +20,7 @@
 - car repair simulation
 - multicriteria optimization
 
-**Solo projects:**
-- stock price prediction using LR an RF algorithms **eng. thesis**
-- pre-marathon training stats analysis
-- vending machine arduino
-- hangman
+---
 
 **Uni modules:**
 - machine learning
