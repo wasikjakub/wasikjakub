@@ -12,10 +12,10 @@
 **Group projects:**
 - [code](https://github.com/wasikjakub/AI-image-recognition-app) Is this image AI generated? Tune your own cnn and find out!
 - [code](https://github.com/wasikjakub/airly-API-database-visualizer) Air quality in polish cities.
-- [code](https://github.com/wasikjakub/genetic-and-swarm-algortihm-comparison) genetic and swarm algorithm comparison.
+- [code](https://github.com/wasikjakub/genetic-and-swarm-algorithm-comparison) genetic and swarm algorithm comparison.
 - [code](https://github.com/wasikjakub/E-commerce-platform-distributed) E-commerce platform as microservices.
-- [code](https://github.com/wasikjakub/bayesian-hearth-disease-prediction) Hearth disease prediction using Bayesian approach.
-- [code](https://github.com/wasikjakub/car-repair-simulatio ) Car repair simulation queue system.
+- [code](https://github.com/wasikjakub/bayesian-heart-disease-prediction) Hearth disease prediction using Bayesian approach.
+- [code](https://github.com/wasikjakub/car-repair-simulation) Car repair simulation queue system.
 - [code](https://github.com/wasikjakub/multicriteria-optimization) Which city is most livable? Multicriteria optimization.
 
 ---
