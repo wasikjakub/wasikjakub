@@ -26,4 +26,3 @@
 - [code](https://github.com/wasikjakub/algorithms-and-data-structures) Algorithms and data structures ²⁰²³
 - [code](https://github.com/wasikjakub/computer-vision-classes) Computer vision ²⁰²³
 - [code](https://github.com/wasikjakub/numerical-methods-classes) Numerical methods ²⁰²³
-- [code](https://github.com/wasikjakub/csharp-dotnet-classes) C# dotnet ²⁰²⁴
