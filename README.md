@@ -2,10 +2,10 @@
 <h1 align="center"> my coding portfolio. </h1>
 
 **Solo projects:**
-- Stock price prediction using Logistic Regression an Random Forest. **engineering thesis**
-- Pre-marathon training stats analysis.
-- Vending machine in arduino.
-- Hangman game.
+- [code](https://github.com/wasikjakub/trading-bot)Stock price prediction using Logistic Regression an Random Forest. **engineering thesis**
+- [code](https://github.com/wasikjakub/Marathon-prep-playground)Pre-marathon training stats analysis.
+- [code](https://github.com/wasikjakub/vending-machine-arduino)Vending machine in arduino.
+- [code](https://github.com/wasikjakub/hangman)Hangman game.
 
 ---
 
