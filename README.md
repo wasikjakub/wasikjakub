@@ -12,7 +12,7 @@
 **Group projects:**
 - [code](https://github.com/wasikjakub/AI-image-recognition-app) Is this image AI generated? Tune your own cnn and find out!
 - [code](https://github.com/wasikjakub/airly-API-database-visualizer) Air quality in polish cities.
-- [code](https://github.com/wasikjakub/genetic-and-swarm-algorithm-comparison) genetic and swarm algorithm comparison.
+- [code](https://github.com/wasikjakub/genetic-and-swarm-algorithm-comparison) Automated warehouse product collecting - genetic and swarm algorithm comparison.
 - [code](https://github.com/wasikjakub/E-commerce-platform-distributed) E-commerce platform as microservices.
 - [code](https://github.com/wasikjakub/bayesian-heart-disease-prediction) Hearth disease prediction using Bayesian approach.
 - [code](https://github.com/wasikjakub/car-repair-simulation) Car repair simulation queue system.
@@ -21,9 +21,9 @@
 ---
 
 **Uni modules:**
-- [code](https://github.com/wasikjakub/machine-learning-classes) machine learning
-- [code](https://github.com/wasikjakub/machine-learning-classes-2) machine learning 2
-- [code](https://github.com/wasikjakub/algorithms-and-data-structures) algorithms and data structures
-- [code](https://github.com/wasikjakub/computer-vision-classes) computer vision
-- [code](https://github.com/wasikjakub/numerical-methods-classes) numerical methods
-- [code](https://github.com/wasikjakub/csharp-dotnet-classes) c# dotnet
+- [code](https://github.com/wasikjakub/machine-learning-classes) Machine learning
+- [code](https://github.com/wasikjakub/machine-learning-classes-2) Machine learning 2
+- [code](https://github.com/wasikjakub/algorithms-and-data-structures) Algorithms and data structures
+- [code](https://github.com/wasikjakub/computer-vision-classes) Computer vision
+- [code](https://github.com/wasikjakub/numerical-methods-classes) Numerical methods
+- [code](https://github.com/wasikjakub/csharp-dotnet-classes) C# dotnet
