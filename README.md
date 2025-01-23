@@ -17,6 +17,8 @@
 - [code](https://github.com/wasikjakub/bayesian-heart-disease-prediction) Hearth disease prediction using Bayesian approach. ²⁰²⁴
 - [code](https://github.com/wasikjakub/car-repair-simulation) Car repair simulation queue system. ²⁰²⁵
 - [code](https://github.com/wasikjakub/multicriteria-optimization) Which city is most livable? Multicriteria optimization. ²⁰²⁵
+- Kalman Filter
+- Computer configurator shop
 
 ---
 
