@@ -20,9 +20,10 @@
 
 ---
 
-**Uni modules:**
+**Uni highlighted modules:**
 - [code](https://github.com/wasikjakub/machine-learning-classes) Machine learning ²⁰²³
 - [code](https://github.com/wasikjakub/machine-learning-classes-2) Machine learning 2 ²⁰²⁵
 - [code](https://github.com/wasikjakub/algorithms-and-data-structures) Algorithms and data structures ²⁰²³
 - [code](https://github.com/wasikjakub/computer-vision-classes) Computer vision ²⁰²³
 - [code](https://github.com/wasikjakub/numerical-methods-classes) Numerical methods ²⁰²³
+- and some more not exactly lining up with my scope of interest...
