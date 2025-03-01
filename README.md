@@ -15,11 +15,11 @@
 - [code](https://github.com/wasikjakub/airly-API-database-visualizer) Air quality in polish cities. ²⁰²⁴
 - [code](https://github.com/wasikjakub/genetic-and-swarm-algorithm-comparison) Automated warehouse product collecting - genetic and swarm algorithm comparison. ²⁰²⁴
 - [code](https://github.com/wasikjakub/E-commerce-platform-distributed) E-commerce platform as microservices. ²⁰²⁴
+- [code](https://github.com/wasikjakub/computer-shop) Computer configurator shop ²⁰²⁵
 - [code](https://github.com/wasikjakub/bayesian-heart-disease-prediction) Hearth disease prediction using Bayesian approach. ²⁰²⁴
 - [code](https://github.com/wasikjakub/car-repair-simulation) Car repair simulation queue system. ²⁰²⁵
 - [code](https://github.com/wasikjakub/multicriteria-optimization) Which city is most livable? Multicriteria optimization. ²⁰²⁵
-- [code](https://github.com/wasikjakub/kalman-filter) Kalman Filter
-- Computer configurator shop
+- [code](https://github.com/wasikjakub/kalman-filter) Kalman Filter ²⁰²⁴
 
 ---
 
