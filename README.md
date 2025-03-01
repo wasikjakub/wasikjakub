@@ -2,6 +2,7 @@
 <h1 align="center"> my coding portfolio. </h1>
 
 **Solo projects:**
+- [code](https://github.com/wasikjakub/kasprowy_peak_traffic) Traffic analysis on Kasprowy's peak using YOLO model ²⁰²⁵
 - [code](https://github.com/wasikjakub/trading-bot) Stock price prediction using Logistic Regression an Random Forest. **engineering thesis** ²⁰²⁴
 - [code](https://github.com/wasikjakub/Marathon-prep-playground) Pre-marathon training stats analysis. ²⁰²⁴
 - [code](https://github.com/wasikjakub/vending-machine-arduino) Vending machine in arduino. ²⁰²⁴
