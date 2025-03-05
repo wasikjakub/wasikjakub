@@ -3,7 +3,7 @@
 
 **Solo projects:**
 - [code](https://github.com/wasikjakub/kasprowy_peak_traffic) Counting people on Kasprowy mountain in real-time through online webcam using AI ²⁰²⁵
-- [code](https://github.com/wasikjakub/trading-bot) Stock price prediction using ML algorithms. **engineering thesis** ²⁰²⁴
+- [code](https://github.com/wasikjakub/trading-bot-ml) Stock price prediction using ML algorithms, technical analysis & live trading. **engineering thesis** ²⁰²⁴
 - [code](https://github.com/wasikjakub/Marathon-prep-playground) Pre-marathon training stats analysis. ²⁰²⁴
 - [code](https://github.com/wasikjakub/vending-machine-arduino) Vending machine in arduino. ²⁰²⁴
 - [code](https://github.com/wasikjakub/hangman) Hangman game. ²⁰²³
