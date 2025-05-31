@@ -31,6 +31,3 @@
 - [code](https://github.com/wasikjakub/computer-vision-classes) Computer vision ²⁰²³
 - [code](https://github.com/wasikjakub/numerical-methods-classes) Numerical methods ²⁰²³
 - and some more not public...
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasikjakub&layout=compact)
