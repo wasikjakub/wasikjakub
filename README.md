@@ -11,7 +11,7 @@
 ---
 
 **Group projects:**
-- [code](https://github.com/michalsciubisz/SRP) perfuME - ML based perfume recommendation app ²⁰²⁵ *in development*
+- [code](https://github.com/wasikjakub/perfume-sbert-app) perfuME - ML based perfume recommendation app ²⁰²⁵ *in development*
 - [code](https://github.com/wasikjakub/AI-image-recognition-app) Is this image AI generated? Tune your own CNN and find out! ²⁰²⁴
 - [code](https://github.com/wasikjakub/airly-API-database-visualizer) Air quality in polish cities. ²⁰²⁴
 - [code](https://github.com/wasikjakub/genetic-and-swarm-algorithm-comparison) Automated warehouse product collecting - genetic and swarm algorithm comparison. ²⁰²⁴
