@@ -2,10 +2,10 @@
 <h1 align="center"> my coding portfolio. </h1>
 
 **Solo projects:**
-- [code](https://github.com/wasikjakub/real-estate-rag-chatbot/tree/main) Real Estate RAG Chatbot **master's thesis** ²⁰²⁵
+- [code](https://github.com/wasikjakub/real-estate-rag-chatbot/tree/main) Real Estate RAG Chatbot, **master's thesis** ²⁰²⁵
 - [code](https://github.com/wasikjakub/cracow-skateboarding-map) Cracow skateboarding map - LIVE: [cracowskatemap.xyz](https://cracowskatemap.xyz) ²⁰²⁵
 - [code](https://github.com/wasikjakub/kasprowy_peak_traffic) Counting people on Kasprowy mountain in real-time through online webcam using AI ²⁰²⁵
-- [code](https://github.com/wasikjakub/trading-bot-ml) Stock price prediction using ML algorithms & technical analysis + real-time trading **engineering thesis** ²⁰²⁴
+- [code](https://github.com/wasikjakub/trading-bot-ml) Stock price prediction using ML algorithms & technical analysis + real-time trading, **engineering thesis** ²⁰²⁴
 - [code](https://github.com/wasikjakub/Marathon-prep-playground) Pre-marathon personal training stats analysis ²⁰²⁴
 - [code](https://github.com/wasikjakub/vending-machine-arduino) Vending machine ²⁰²⁴
 - [code](https://github.com/wasikjakub/hangman) Hangman game ²⁰²³
