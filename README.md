@@ -33,6 +33,3 @@
 - [code](https://github.com/wasikjakub/computer-vision-classes) Computer vision ²⁰²³
 - [code](https://github.com/wasikjakub/numerical-methods-classes) Numerical methods ²⁰²³
 - and some more not public...
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
